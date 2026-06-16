@@ -1,0 +1,151 @@
+titulo,genero,calificacion,clasica,apreciacion
+The Shawshank Redemption,Drama,9.3,True,Excelente
+The Godfather,Crimen,9.2,True,Excelente
+The Dark Knight,Accion,9.0,False,Excelente
+The Godfather Part II,Crimen,9.0,True,Excelente
+12 Angry Men,Drama,9.0,True,Excelente
+The Lord of the Rings The Return of the King,Aventura,9.0,False,Excelente
+Schindlers List,Drama,9.0,True,Excelente
+Pulp Fiction,Crimen,8.9,True,Excelente
+Pixels,Comedia,5.6,False,Regular
+Norbit,Comedia,4.2,False,Mala
+The Emoji Movie,Animacion,3.4,False,Mala
+The Lord of the Rings The Fellowship of the Ring,Aventura,8.9,False,Excelente
+The Good the Bad and the Ugly,Western,8.8,True,Excelente
+Forrest Gump,Drama,8.8,True,Excelente
+Fight Club,Drama,8.8,False,Excelente
+The Lord of the Rings The Two Towers,Aventura,8.8,False,Excelente
+Inception,Ciencia Ficcion,8.8,False,Excelente
+Star Wars Episode V The Empire Strikes Back,Ciencia Ficcion,8.7,True,Excelente
+The Matrix,Ciencia Ficcion,8.7,False,Excelente
+Goodfellas,Crimen,8.7,True,Excelente
+One Flew Over the Cuckoos Nest,Drama,8.7,True,Excelente
+Se7en,Thriller,8.6,False,Excelente
+Interstellar,Ciencia Ficcion,8.7,False,Excelente
+The Silence of the Lambs,Thriller,8.6,True,Excelente
+Saving Private Ryan,Guerra,8.6,False,Excelente
+City of God,Crimen,8.6,False,Excelente
+The Green Mile,Drama,8.6,False,Excelente
+Life Is Beautiful,Drama,8.6,False,Excelente
+Terminator 2 Judgment Day,Accion,8.6,True,Excelente
+Back to the Future,Ciencia Ficcion,8.5,True,Buena
+Spirited Away,Animacion,8.6,False,Excelente
+The Pianist,Drama,8.5,False,Buena
+Parasite,Thriller,8.5,False,Buena
+Gladiator,Accion,8.5,False,Buena
+Whiplash,Drama,8.5,False,Buena
+The Departed,Crimen,8.5,False,Buena
+The Prestige,Drama,8.5,False,Buena
+The Lion King,Animacion,8.5,True,Buena
+National Treasure,Aventura,6.9,False,Regular
+The Da Vinci Code,Misterio,6.6,False,Regular
+Angels and Demons,Misterio,6.7,False,Regular
+World War Z,Terror,7.0,False,Regular
+I Am Legend,Ciencia Ficcion,7.2,False,Buena
+War of the Worlds,Ciencia Ficcion,6.5,False,Regular
+Oblivion,Ciencia Ficcion,7.0,False,Regular
+Passengers,Ciencia Ficcion,7.0,False,Regular
+Lucy,Ciencia Ficcion,6.4,False,Regular
+Memento,Thriller,8.4,False,Buena
+Apocalypse Now,Guerra,8.4,True,Buena
+Alien,Ciencia Ficcion,8.4,True,Buena
+The Shining,Terror,8.4,True,Buena
+Django Unchained,Western,8.4,False,Buena
+WALL-E,Animacion,8.4,False,Buena
+Avengers Infinity War,Accion,8.4,False,Buena
+Avengers Endgame,Accion,8.4,False,Buena
+Toy Story,Animacion,8.3,False,Buena
+Coco,Animacion,8.4,False,Buena
+Jurassic Park,Aventura,8.2,True,Buena
+The Truman Show,Drama,8.2,False,Buena
+Mad Max Fury Road,Accion,8.1,False,Buena
+Blade Runner 2049,Ciencia Ficcion,8.0,False,Buena
+The Social Network,Drama,7.8,False,Buena
+Batman Forever,Accion,5.4,False,Regular
+Batman and Robin,Accion,3.8,False,Mala
+The Happening,Thriller,5.0,False,Mala
+After Earth,Ciencia Ficcion,4.8,False,Mala
+The Mummy Returns,Aventura,6.4,False,Regular
+A Quiet Place Part II,Terror,7.2,False,Buena
+The Conjuring,Terror,7.5,False,Buena
+The Conjuring 2,Terror,7.3,False,Buena
+Annabelle,Terror,5.4,False,Regular
+Annabelle Creation,Terror,6.5,False,Regular
+Jurassic World Dominion,Aventura,5.6,False,Regular
+Transformers Revenge of the Fallen,Accion,6.0,False,Regular
+Transformers The Last Knight,Accion,5.2,False,Regular
+Venom,Accion,6.6,False,Regular
+Venom Let There Be Carnage,Accion,5.9,False,Regular
+The Amazing Spider-Man 2,Accion,6.5,False,Regular
+Eternals,Accion,6.3,False,Regular
+Thor The Dark World,Accion,6.7,False,Regular
+The Last Airbender,Aventura,2.5,False,Pesima
+2012,Ciencia Ficcion,5.8,False,Regular
+Moonfall,Ciencia Ficcion,5.1,False,Regular
+The Day After Tomorrow,Ciencia Ficcion,6.5,False,Regular
+Godzilla King of the Monsters,Ciencia Ficcion,6.0,False,Regular
+Pacific Rim,Aventura,6.9,False,Regular
+Uncharted,Aventura,6.3,False,Regular
+The Meg,Aventura,5.7,False,Regular
+San Andreas,Aventura,6.1,False,Regular
+The Tourist,Romance,6.0,False,Regular
+Mission Impossible Ghost Protocol,Accion,7.4,False,Buena
+Mission Impossible Fallout,Accion,7.7,False,Buena
+Spectre,Accion,6.8,False,Regular
+No Time to Die,Accion,7.3,False,Buena
+Valentines Day,Romance,5.7,False,Regular
+Dear John,Romance,6.3,False,Regular
+The Vow,Romance,6.8,False,Regular
+50 Shades of Grey,Romance,3.5,False,Mala
+27 Dresses,Romance,6.1,False,Regular
+Ghost Rider,Accion,5.3,False,Regular
+Fantastic Four,Accion,4.0,False,Mala
+Green Lantern,Accion,5.5,False,Regular
+Morbius,Accion,5.1,False,Regular
+The Expendables 3,Accion,6.1,False,Regular
+Grown Ups,Comedia,6.0,False,Regular
+Paul Blart Mall Cop,Comedia,5.3,False,Regular
+Cars 2,Animacion,6.2,False,Regular
+Hotel Transylvania,Animacion,7.0,False,Regular
+Minions,Animacion,6.4,False,Regular
+Rocky,Drama,8.1,True,Buena
+Rocky II,Drama,7.3,True,Buena
+Rocky III,Drama,6.8,True,Regular
+Rocky IV,Drama,6.9,True,Regular
+Creed,Drama,7.6,False,Buena
+Creed II,Drama,7.1,False,Buena
+Rambo First Blood,Accion,7.7,True,Buena
+Rambo First Blood Part II,Accion,6.5,True,Regular
+Rambo III,Accion,5.8,True,Regular
+John Wick,Accion,7.5,False,Buena
+John Wick Chapter 2,Accion,7.4,False,Buena
+John Wick Chapter 3 Parabellum,Accion,7.4,False,Buena
+John Wick Chapter 4,Accion,7.7,False,Buena
+Top Gun,Accion,6.9,True,Regular
+Top Gun Maverick,Accion,8.2,False,Buena
+Mission Impossible,Accion,7.2,False,Buena
+Mission Impossible 2,Accion,6.1,False,Regular
+Mission Impossible III,Accion,6.9,False,Regular
+Casino Royale,Accion,8.0,False,Buena
+Quantum of Solace,Accion,6.6,False,Regular
+Skyfall,Accion,7.8,False,Buena
+Shrek,Animacion,7.9,False,Buena
+Shrek 2,Animacion,7.4,False,Buena
+Shrek the Third,Animacion,6.1,False,Regular
+Shrek Forever After,Animacion,6.3,False,Regular
+Finding Nemo,Animacion,8.2,False,Buena
+Finding Dory,Animacion,7.3,False,Buena
+Monsters Inc,Animacion,8.1,False,Buena
+Monsters University,Animacion,7.2,False,Buena
+Inside Out,Animacion,8.1,False,Buena
+Inside Out 2,Animacion,7.6,False,Buena
+Frozen,Animacion,7.4,False,Buena
+Frozen II,Animacion,6.8,False,Regular
+Brave,Animacion,7.1,False,Buena
+A Quiet Place,Terror,7.5,False,Buena
+Insidious,Terror,6.8,False,Regular
+Insidious Chapter 2,Terror,6.5,False,Regular
+Saw,Terror,7.6,False,Buena
+Saw II,Terror,6.6,False,Regular
+The Ring,Terror,7.1,False,Buena
+The Nun,Terror,5.3,False,Regular
